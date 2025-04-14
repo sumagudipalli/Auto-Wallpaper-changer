@@ -36,6 +36,8 @@ auto-wallpaper-changer-web/
     ├── 2.jpg
     └── ...
 project path:
-![image](https://github.com/user-attachments/assets/fe51efde-2207-4a17-a9e5-b2103933dbe8)
+ https://github.com/sumagudipalli/Auto-Wallpaper-changer
+ Screenshot:
+![Screenshot](https://github.com/user-attachments/assets/42087da2-5fc3-458a-97d6-89c9eadc1ac0)
 
 
