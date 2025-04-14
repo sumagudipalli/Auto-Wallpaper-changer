@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Wallpaper with Weather, Markets & Sprints</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  
+  <div class="wallpaper">
+    <div class="datetime-container">
+        <div id="time" class="time"></div>
+        <div id="date" class="date"></div>
+      </div>
+
+    <div class="bottom-containers">
+      
+      <!-- Temperature Box -->
+      <div class="container" id="temperature-box">
+        <h3>Temperature</h3>
+        <div id="temperature"> ⛅--</div>
+        <div id="condition">⛅ --</div>
+      </div>
+
+      <!-- Markets Box -->
+      <div class="container" id="markets-box">
+        <h3>Markets</h3>
+        <div id="stock-container"></div>
+      </div>
+
+      <!-- Sprint Progress Box -->
+      <div class="container" id="sprint-box">
+        <h3>Sprints</h3>
+        <div id="sprint-status"></div>
+      </div>
+
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
